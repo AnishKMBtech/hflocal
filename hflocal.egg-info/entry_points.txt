@@ -1,3 +1,0 @@
-[console_scripts]
-load_model = hflocal.model_manager:load_model
-save_model = hflocal.model_manager:save_model
